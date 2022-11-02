@@ -1,0 +1,3 @@
+this is my new file called as the name new file
+this edited by vi editor
+and edited
